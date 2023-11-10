@@ -1,0 +1,1 @@
+## Sample project {{cookiecutter.app_name_var}}
